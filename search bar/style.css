@@ -1,0 +1,13 @@
+.box{
+    background-color: rgba(165, 159, 159, 0.603);
+    width:250px;
+    height:50px;
+    margin:50px;
+}
+img{
+    width: 30px;  
+}
+input{
+    padding-left: 10px;
+    height: 30px;
+}
